@@ -1,0 +1,9 @@
+hello: world
+spring:
+  application:
+    name: demo1
+  datasource:
+    password: 1234
+    username: daye-dev
+
+      
