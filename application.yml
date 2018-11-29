@@ -1,9 +1,0 @@
-spring:
-  application: 
-    name: demo1
- # 数据库配置
-  datasource:
-    url: jdbc:mysql://127.0.0.1:3306/te?zeroDateTimeBehavior=convertToNull&characterEncoding=utf-8&jdbcCompliantTruncation=false&autoReconnect=true&useSSL=false
-    username: daye
-    password: 1234
-hello: world
