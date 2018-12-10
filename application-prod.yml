@@ -1,4 +1,5 @@
-hello: world
+hello: 
+  world
 spring:
   application:
     name: demo1
