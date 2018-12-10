@@ -4,4 +4,4 @@ spring:
     name: demo1
   datasource:
     password: 1234
-    username: daye-prod-2
+    username: daye-prod-3
