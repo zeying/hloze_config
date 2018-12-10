@@ -1,5 +1,5 @@
 hello: 
-  world
+  name: world
 spring:
   application:
     name: demo1
